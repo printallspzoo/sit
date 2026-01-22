@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sitrem.de 22.01 WORK",
+  "description": "Employee time tracking and reporting portal with Google Drive integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
